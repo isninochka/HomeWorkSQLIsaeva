@@ -7,7 +7,7 @@
 5 Скейт 19000 4
 6 Сноуборд 33000 17*/
 
-db.products.insertMany([
+/*db.products.insertMany([
 {_id:1, title: "Велосипед", price: 45000, count: 12},
 {_id:2, title: "Самокат", price: 1500, count: 10},
 {_id:3, title: "Ролики", price: 2000, count: 20},
